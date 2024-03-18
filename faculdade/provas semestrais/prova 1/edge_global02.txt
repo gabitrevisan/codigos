@@ -1,0 +1,7 @@
+Projeto realizado para a Global Solution 1 (prova semestral) da disciplina de Edge Computing & Computer Systems (faculdade)
+
+Link de acesso no TinkerCad: https://www.tinkercad.com/things/921O4VCOY3F-global-solution-edge-computing-and-computer-systems/editel?returnTo=%2Fdashboard%3Ftype%3Dcircuits%26collection%3Ddesigns%26pageSize%3D24%26page%3D0&sharecode=Yf3IpvB18fZQSJLIonhwZbYXBNsf3PCaijY0E5i0ZTI
+
+Link de acesso para a apresentação no YouTube: https://www.youtube.com/watch?v=ZtB9g4B4okA
+
+Link de acesso ao repositório do projeto: https://github.com/gabitrevisan/GS-ECCS

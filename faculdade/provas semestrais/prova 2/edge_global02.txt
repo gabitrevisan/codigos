@@ -1,0 +1,5 @@
+Projeto realizado para a Global Solution 2 (prova semestral) da disciplina de Edge Computing & Computer Systems (faculdade)
+
+Link de acesso ao repositório do projeto: https://github.com/gabitrevisan/GS-IOT
+
+Link de acesso a pasta .zip do projeto, que além do código, inclui vídeo de apresentação e arquivo .docx explicando o desafio: https://drive.google.com/file/d/1F0ryP2bxonGxP4bfSAo99nRTmybRSuEH/view?usp=drive_link

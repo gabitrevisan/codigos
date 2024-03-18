@@ -1,0 +1,3 @@
+Projeto realizado para a Sprint 02 da disciplina de Edge Computing & Computer Systems (faculdade)
+
+Link de acesso para a apresentação: https://docs.google.com/presentation/d/10_zYCOJkCyOd9e6-rPHaOT9p16aTnL0R/edit?usp=drive_link&ouid=117085033065010623506&rtpof=true&sd=true
