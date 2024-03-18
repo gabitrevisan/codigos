@@ -2,7 +2,7 @@ Como conversamos na última reunião, aqui estão alguns dos códigos feitos em 
 
 A maioria foi feito pelo "Arduino IDE", tanto os projetos do ensino médio quanto os da faculdade, e complidados diretamente por lá. Realizamos alguns testes no TinkerCad, antes de construirmos os projetos na vida real.
 
-Em vezes, istalamos o "C/C++ Compile Run" diretamente no Visual Studio Code, que permitia compilar o código apenas usando a tecla F6
+Em vezes, istalamos o "C/C++ Compile Run" diretamente no Visual Studio Code, que permitia compilar o código apenas usando a tecla F6 dentro da IDE.
 
 Códigos feitos em outras linguagens estudadas no ano passado não necessitavam de compilers, então não utilizávamos.
 
